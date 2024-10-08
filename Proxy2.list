@@ -2,6 +2,7 @@ DOMAIN-KEYWORD,6bcloud.top
 DOMAIN-KEYWORD,viptwo.top
 DOMAIN-KEYWORD,followme.com
 DOMAIN-KEYWORD,followme.ceo
+DOMAIN-KEYWORD,whatsmydns.me
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
