@@ -2,10 +2,11 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,6bcloud.top
-DOMAIN-SUFFIX,viptwo.top
+
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,6bcloud.top
+DOMAIN-KEYWORD,viptwo.top
 DOMAIN-KEYWORD,1e100
 
 # IP段匹配
