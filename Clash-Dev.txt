@@ -13,11 +13,11 @@ curl -s https://anti-ad.net/anti-ad-for-dnsmasq.conf -o /tmp/dnsmasq.d/anti-ad-f
 # 广告过滤规则拉取脚本结束
 
 # 以下是 GitHub520 加速规则拉取脚本  
-LOG_OUT "拉取 GitHub520 加速规则…"  
-sed -i '/# GitHub520 Host Start/,/# GitHub520 Host End/d' /etc/hosts  
-curl https://raw.hellogithub.com/hosts >> /etc/hosts  
-sed -i '/^$/d' /etc/hosts  
-sed -i '/!/d' /etc/hosts  
+# LOG_OUT "拉取 GitHub520 加速规则…"  
+# sed -i '/# GitHub520 Host Start/,/# GitHub520 Host End/d' /etc/hosts  
+# curl https://raw.hellogithub.com/hosts >> /etc/hosts  
+# sed -i '/^$/d' /etc/hosts  
+# sed -i '/!/d' /etc/hosts  
 # GitHub520 加速规则拉取脚本结束
 
 # 清理 DNS 缓存  
