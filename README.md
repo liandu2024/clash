@@ -1,1 +1,1 @@
-# lian
+# clash策略
