@@ -9,7 +9,6 @@ config config_subscribe
 	option template '0'
 	option custom_template_url 'https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-LIAN.ini'
 	option emoji 'false'
-	option udp 'false'
 	option skip_cert_verify 'false'
 	option sort 'false'
 	option node_type 'false'
@@ -25,6 +24,7 @@ config config_subscribe
 	list ex_keyword '0.4'
 	list ex_keyword '0.5'
 	list ex_keyword '域名'
+	option udp 'true'
 
 config config_subscribe
 	option enabled '1'
