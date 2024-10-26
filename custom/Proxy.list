@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,no-mad-world.club
 
 # lastpass.com
 DOMAIN-SUFFIX,lastpass.com
+
+# ip查询器
+ipify.org
