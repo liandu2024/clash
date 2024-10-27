@@ -585,3 +585,8 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# windows 
+DOMAIN-SUFFIX,widnows.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,microsoftstore.com
