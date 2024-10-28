@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.net
+DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,mmcks.top
@@ -42,8 +44,7 @@ DOMAIN-SUFFIX,lianjiasub.work
 DOMAIN-SUFFIX,muniucloud.pro
 DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,browserleaks.net
-DOMAIN-SUFFIX,browserleaks.org
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
