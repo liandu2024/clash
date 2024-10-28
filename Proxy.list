@@ -15,6 +15,10 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
+DOMAIN-SUFFIX,dns4.browserleaks.net
+DOMAIN-SUFFIX,dns6.browserleaks.net
+DOMAIN-SUFFIX,dns4.browserleaks.org
+DOMAIN-SUFFIX,dns6.browserleaks.org
 
 DOMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,viptwo.top
@@ -33,8 +37,6 @@ DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,browserleaks.net
-DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,mmcks.top
@@ -44,8 +46,6 @@ DOMAIN-SUFFIX,lianjiasub.work
 DOMAIN-SUFFIX,muniucloud.pro
 DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
-
-DOMAIN-KEYWORD,browserleaks
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
