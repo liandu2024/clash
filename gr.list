@@ -11,4 +11,4 @@
 DOMAIN-SUFFIX,githubusercontent.com,Proxy
 DOMAIN-SUFFIX,acg.rip,Proxy
 DOMAIN-SUFFIX,mikanani.me,Proxy
-
+PROCESS-NAME,LookupViewService
