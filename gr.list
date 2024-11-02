@@ -10,8 +10,9 @@
 # SRC-PORT,7777,DIRECT #匹配数据源端口(直连)
 DOMAIN,raw.githubusercontent.com
 DOMAIN,acg.rip
-DOMAIN,mikanani.me
+DOMAIN,mikanani.me 
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,bangumi.moe
 PROCESS-NAME,LookupViewService
