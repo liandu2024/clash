@@ -11,5 +11,6 @@
 #- SRC-PORT,7777,DIRECT #匹配数据源端口(直连)
 
 
-
-DOMAIN-SUFFIX,xisystems.com
+DOMAIN,raw.githubusercontent.com
+DOMAIN,*.acg.rip
+DOMAIN-SUFFIX,acg.rip
