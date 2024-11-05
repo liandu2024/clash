@@ -12,8 +12,10 @@ DOMAIN,raw.githubusercontent.com
 DOMAIN,acg.rip
 DOMAIN,mikanani.me 
 DOMAIN,bangumi.moe
-DOMAIN,hdycco.xyz
+DOMAIN,hdycco.xyz       
 DOMAIN,truenas.com
+DOMAIN,shadowrocket.org
+DOMAIN-SUFFIX,shadowrocket.org
 DOMAIN-SUFFIX,truenas.com
 DOMAIN-SUFFIX,hdycco.xyz
 DOMAIN-SUFFIX,githubusercontent.com
