@@ -1,5 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# add ll
+IP-CIDR,129.150.48.23/8,no-resolve
+DOMAIN-SUFFIX,oaifree.com
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
