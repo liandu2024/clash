@@ -7,7 +7,7 @@
 # IP-CIDR,127.0.0.0/8,DIRECT #匹配数据目标IP(直连)
 # SRC-IP-CIDR,192.168.1.201/32,DIRECT #匹配数据发起IP(直连)
 # DST-PORT,80,DIRECT #匹配数据目标端口(直连)
-# SRC-PORT,7777,DIRECT #匹配数据源端口(直连)     
+# SRC-PORT,7777,DIRECT #匹配数据源端口(直连)    
 DOMAIN,raw.githubusercontent.com
 DOMAIN,acg.rip
 DOMAIN,mikanani.me 
@@ -15,8 +15,20 @@ DOMAIN,bangumi.moe
 DOMAIN,hdycco.xyz       
 DOMAIN,truenas.com
 DOMAIN,shadowrocket.org
-DOMAIN,avsox.click
-DOMAIN,airav.wiki
+DOMAIN,avsox.click  
+DOMAIN,airav.wiki        
+DOMAIN,airair6.co          
+DOMAIN,seesaawiki.jp      
+DOMAIN,bi-av.com     
+DOMAIN,miman.jp            
+DOMAIN,tameikegoro.jp   
+DOMAIN,fitch-av.com          
+DOMAIN-SUFFIX,fitch-av.com
+DOMAIN-SUFFIX,tameikegoro.jp
+DOMAIN-SUFFIX,miman.jp
+DOMAIN-SUFFIX,bi-av.com                    
+DOMAIN-SUFFIX,seesaawiki.jp
+DOMAIN-SUFFIX,airair6.co
 DOMAIN-SUFFIX,airav.wiki
 DOMAIN-SUFFIX,avsox.click
 DOMAIN-SUFFIX,shadowrocket.org
