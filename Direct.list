@@ -1,6 +1,13 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+DOMAIN-SUFFIX,checkip.synology.com,DIRECT
+DOMAIN-SUFFIX,checkipv6.synology.com,DIRECT
+DOMAIN-SUFFIX,checkport.synology.com,DIRECT
+DOMAIN-SUFFIX,ddns.synology.com,DIRECT
+DOMAIN-SUFFIX,account.synology.com,DIRECT
+DOMAIN-SUFFIX,tony0624.myds.com,DIRECT
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
