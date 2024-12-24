@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,piliapp.com
+DOMAIN-SUFFIX,meijutt.cc
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
