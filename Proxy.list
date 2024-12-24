@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,piliapp.com
 DOMAIN-SUFFIX,meijutt.cc
+DOMAIN-SUFFIX,www.piaohua.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
