@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,llgjc1.com
+DOMAIN-SUFFIX,qichiyu.com
 
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
@@ -64,8 +65,11 @@ DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
+# DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
+DOMAIN-SUFFIX,piliapp.com
+DOMAIN-SUFFIX,meijutt.cc
+DOMAIN-SUFFIX,piaohua.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
