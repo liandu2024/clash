@@ -7,6 +7,7 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,genspark.ai
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
