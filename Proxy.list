@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,piliapp.com
 DOMAIN-SUFFIX,meijutt.cc
 DOMAIN-SUFFIX,piaohua.com
 DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,browserscan.net
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
