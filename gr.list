@@ -9,16 +9,18 @@
 # DST-PORT,80,DIRECT #匹配数据目标端口(直连)
 # SRC-PORT,7777,DIRECT #匹配数据源端口(直连)    
 DOMAIN,raw.githubusercontent.com
-DOMAIN,monikadesign.uk
-DOMAIN,acg.rip
-DOMAIN,mikanani.me 
 DOMAIN,bangumi.moe
 DOMAIN,hdycco.xyz       
 DOMAIN,truenas.com
 DOMAIN,shadowrocket.org
-DOMAIN-KEYWORD,truenas.com
-DOMAIN-KEYWORD,hdycco.xyz
-DOMAIN-KEYWORD,githubusercontent.com
-DOMAIN-KEYWORD,acg.rip
-DOMAIN-KEYWORD,mikanani.me
-DOMAIN-KEYWORD,bangumi.moe      
+
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,monikadesign.uk
+
+DOMAIN-KEYWORD,monikadesign
+DOMAIN-KEYWORD,truenas
+DOMAIN-KEYWORD,hdycco
+DOMAIN-KEYWORD,githubusercontent
+DOMAIN-KEYWORD,mikanani
+DOMAIN-KEYWORD,bangumi     
