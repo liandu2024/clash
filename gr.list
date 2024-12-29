@@ -10,8 +10,6 @@
 # SRC-PORT,7777,DIRECT #匹配数据源端口(直连)    
 DOMAIN,raw.githubusercontent.com
 DOMAIN,monikadesign.uk
-DOMAIN-SUFFIX,monikadesign.uk
-
 DOMAIN,acg.rip
 DOMAIN,mikanani.me 
 DOMAIN,bangumi.moe
@@ -29,7 +27,8 @@ DOMAIN,fitch-av.com
 DOMAIN,airav.io   
 DOMAIN,paycalling.com 
 DOMAIN,gg5.co
-DOMAIN,fc2hub.com    
+DOMAIN,fc2hub.com
+DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,fc2hub.com
 DOMAIN-SUFFIX,gg5.co
 DOMAIN-SUFFIX,paycalling.com
