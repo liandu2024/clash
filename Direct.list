@@ -2,6 +2,8 @@
 
 # add ll
 IP-CIDR,129.150.48.23/8,no-resolve
+IP-CIDR,165.1.76.156/32,no-resolve
+IP-CIDR,129.150.48.23/32,no-resolve
 DOMAIN-SUFFIX,oaifree.com
 
 # MyList
