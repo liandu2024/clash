@@ -4,4 +4,6 @@
 
 IP-CIDR,165.1.76.156/32,no-resolve
 IP-CIDR,129.150.48.23/32,no-resolve
+IP-CIDR,192.168.2.130/32,no-resolve
 
+DOMAIN-SUFFIX,scol.com.cn
