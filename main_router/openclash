@@ -75,7 +75,7 @@ config config_subscribe
 	list ex_keyword '0.3'
 	list ex_keyword '0.4'
 	list ex_keyword '0.5'
-	option convert_address 'https://subsrv.ok1248.cn:4433/sub'
+	option convert_address 'https://sub.maoxiongnet.com/sub'
 	option udp 'true'
 
 config dns_servers
