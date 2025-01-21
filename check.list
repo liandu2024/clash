@@ -14,6 +14,10 @@ DOMAIN-SUFFIX,browserleaks.net
 
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,browserscan.net
+DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,ip-api.com
+
+
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,ip-score.com
 DOMAIN-SUFFIX,888005.xyz
