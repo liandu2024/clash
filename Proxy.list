@@ -43,8 +43,8 @@ DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,difyai.com
+# DOMAIN-SUFFIX,groq.com
+# DOMAIN-SUFFIX,difyai.com
 
 DOMAIN-SUFFIX,stotik.com
 DOMAIN-SUFFIX,streetfighter.com
