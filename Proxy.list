@@ -2,6 +2,7 @@
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
+IP-CIDR,95.161.76.0/24,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -41,6 +42,19 @@ DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,llgjc1.com
+DOMAIN-SUFFIX,qichiyu.com
+# DOMAIN-SUFFIX,groq.com
+# DOMAIN-SUFFIX,difyai.com
+DOMAIN-SUFFIX,hsy88.org
+
+DOMAIN-SUFFIX,stotik.com
+DOMAIN-SUFFIX,streetfighter.com
+DOMAIN-SUFFIX,capcom.com
+DOMAIN-SUFFIX,fcdn.sk
+DOMAIN-SUFFIX,kooink.com
+DOMAIN-SUFFIX,nodeseek.com
+
+DOMAIN-SUFFIX,kjfx.cc
 
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
@@ -55,9 +69,9 @@ DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
+# DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
-DOMAIN-SUFFIX,virtamate.com
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
