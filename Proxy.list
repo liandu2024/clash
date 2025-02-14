@@ -2,6 +2,7 @@
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
+IP-CIDR,95.161.76.0/24,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -37,6 +38,24 @@ DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,browserleaks.net
+DOMAIN-SUFFIX,surfsharkdns.com
+DOMAIN-SUFFIX,llgjc1.com
+DOMAIN-SUFFIX,qichiyu.com
+# DOMAIN-SUFFIX,groq.com
+# DOMAIN-SUFFIX,difyai.com
+DOMAIN-SUFFIX,hsy88.org
+
+DOMAIN-SUFFIX,stotik.com
+DOMAIN-SUFFIX,streetfighter.com
+DOMAIN-SUFFIX,capcom.com
+DOMAIN-SUFFIX,fcdn.sk
+DOMAIN-SUFFIX,kooink.com
+DOMAIN-SUFFIX,nodeseek.com
+
+DOMAIN-SUFFIX,kjfx.cc
+
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
 DOMAIN-SUFFIX,mmcks.top
@@ -50,8 +69,26 @@ DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
+# DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
+DOMAIN-SUFFIX,piliapp.com
+DOMAIN-SUFFIX,meijutt.cc
+DOMAIN-SUFFIX,piaohua.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,browserscan.net
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,dnscheck.tools
+DOMAIN-SUFFIX,arin.net
+DOMAIN-SUFFIX,null-addr.com
+DOMAIN-SUFFIX,null-addr.net
+DOMAIN-SUFFIX,null-addr.org
+DOMAIN-SUFFIX,null-addr.biz
+DOMAIN-SUFFIX,null-addr.info
+DOMAIN-SUFFIX,addr.tools
+DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,coincola.com
+DOMAIN-SUFFIX,coincolacdn.com
+DOMAIN-SUFFIX,colaotc.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
