@@ -113,6 +113,7 @@ config config_subscribe
 	list ex_keyword '0.5'
 	option convert_address 'https://api.wcc.best/sub'
 	option udp 'true'
+
 config dns_servers
 	option group 'nameserver'
 	option type 'udp'
