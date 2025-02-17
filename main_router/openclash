@@ -5,7 +5,7 @@ config config_subscribe
 	option address '【订阅地址复制并覆盖这里】'
 	option sub_ua 'clash.meta'
 	option sub_convert '1'
-	option convert_address 'https://subsrv.ok1248.cn:4433/sub'
+	option convert_address 'https://api.wcc.best/sub'
 	option template '0'
 	option custom_template_url 'https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-LIAN.ini'
 	option emoji 'false'
@@ -50,7 +50,7 @@ config config_subscribe
 	list ex_keyword '0.4'
 	list ex_keyword '0.5'
 	option sub_ua 'clash.meta'
-	option convert_address 'https://subsrv.ok1248.cn:4433/sub'
+	option convert_address 'https://api.wcc.best/sub'
 
 config config_subscribe
 	option enabled '1'
@@ -75,7 +75,7 @@ config config_subscribe
 	list ex_keyword '0.3'
 	list ex_keyword '0.4'
 	list ex_keyword '0.5'
-	option convert_address 'https://sub.maoxiongnet.com/sub'
+	option convert_address 'https://api.wcc.best/sub'
 	option udp 'true'
 
 config dns_servers
