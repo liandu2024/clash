@@ -90,7 +90,6 @@ DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,coincola.com
 DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
-DOMAIN-SUFFIX,grok.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
