@@ -103,24 +103,7 @@ DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
-DOMAIN-SUFFIX,piliapp.com
-DOMAIN-SUFFIX,meijutt.cc
-DOMAIN-SUFFIX,piaohua.com
-DOMAIN-SUFFIX,ip-api.com
-DOMAIN-SUFFIX,browserscan.net
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,dnscheck.tools
-DOMAIN-SUFFIX,arin.net
-DOMAIN-SUFFIX,null-addr.com
-DOMAIN-SUFFIX,null-addr.net
-DOMAIN-SUFFIX,null-addr.org
-DOMAIN-SUFFIX,null-addr.biz
-DOMAIN-SUFFIX,null-addr.info
-DOMAIN-SUFFIX,addr.tools
-DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,coincola.com
-DOMAIN-SUFFIX,coincolacdn.com
-DOMAIN-SUFFIX,colaotc.com
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
