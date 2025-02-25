@@ -121,8 +121,10 @@ DOMAIN-SUFFIX,coincolacdn.com
 DOMAIN-SUFFIX,colaotc.com
 
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,btsow.motorcycles
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,javbus
+DOMAIN-KEYWORD,btsow
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
