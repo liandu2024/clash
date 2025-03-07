@@ -1,6 +1,9 @@
 # 自定义网站
 DOMAIN-SUFFIX,51cg.fun
 DOMAIN-SUFFIX,openwrt.ai
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,fast.com
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
