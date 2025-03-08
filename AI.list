@@ -7,6 +7,8 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -26,6 +28,7 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,circumlunar.space
 DOMAIN-SUFFIX,vulpes.one
 DOMAIN-SUFFIX,mozz.us
