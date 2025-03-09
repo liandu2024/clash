@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipw.cn
+
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speedcheck.org
