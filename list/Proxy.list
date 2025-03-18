@@ -3,6 +3,7 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 IP-CIDR,95.161.76.0/24,no-resolve
+IP-CIDR,142.251.215.0/24,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -46,6 +47,11 @@ DOMAIN-SUFFIX,qichiyu.com
 # DOMAIN-SUFFIX,groq.com
 # DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,hsy88.org
+DOMAIN-SUFFIX,xn--mes358acgm99l.com
+
+DOMAIN-SUFFIX,extrabux.com
+DOMAIN-SUFFIX,wallvpn.com
+
 
 DOMAIN-SUFFIX,stotik.com
 DOMAIN-SUFFIX,streetfighter.com
@@ -53,8 +59,42 @@ DOMAIN-SUFFIX,capcom.com
 DOMAIN-SUFFIX,fcdn.sk
 DOMAIN-SUFFIX,kooink.com
 DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,socialchain.app
+DOMAIN-SUFFIX,onesignal.com
+
 
 DOMAIN-SUFFIX,kjfx.cc
+
+DOMAIN-SUFFIX,hlive.io
+DOMAIN-SUFFIX,ndmdhs.com
+DOMAIN-SUFFIX,anygate.vip
+DOMAIN-SUFFIX,yfsp.tv
+DOMAIN-SUFFIX,bitwayeat.com
+DOMAIN-SUFFIX,etcbbi.xyz
+DOMAIN-SUFFIX,etcbbf.xyz
+DOMAIN-SUFFIX,etcbbj.xyz
+DOMAIN-SUFFIX,etcbbi.xyz
+DOMAIN-SUFFIX,etcbbh.xyz
+DOMAIN-SUFFIX,etcbbf.xyz
+DOMAIN-SUFFIX,etcbbg.xyz
+DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,pipecdn.vip
+DOMAIN-SUFFIX,wyav.tv
+DOMAIN-SUFFIX,tfboyaac.com
+DOMAIN-SUFFIX,tfboyaab.com
+DOMAIN-SUFFIX,aiyifan.tv
+DOMAIN-SUFFIX,tfboyaaa.com
+
+DOMAIN-SUFFIX,canva.com
+
+DOMAIN-SUFFIX,waytogone.com
+DOMAIN-SUFFIX,timeprecei.com
+DOMAIN-SUFFIX,etcbbb.xyz
+DOMAIN-SUFFIX,tfbgbbb.com
+DOMAIN-SUFFIX,tfbgaaa.com
+DOMAIN-SUFFIX,etcbba.xyz
+DOMAIN-SUFFIX,tfboyaae.com
+DOMAIN-SUFFIX,tfboyaad.com
 
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
