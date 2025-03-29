@@ -51,7 +51,27 @@ DOMAIN-SUFFIX,xn--mes358acgm99l.com
 
 DOMAIN-SUFFIX,extrabux.com
 DOMAIN-SUFFIX,wallvpn.com
-
+#小雅相关源数据需要走国外代理
+DOMAIN-KEYWORD,emby.xiaoya.pro
+DOMAIN-KEYWORD,icyou.eu.org
+DOMAIN-KEYWORD,emby.8.net.co
+DOMAIN-KEYWORD,emby.raydoom.tk
+DOMAIN-KEYWORD,embyxiaoya.laogl.top
+DOMAIN-KEYWORD,emby-data.poxi1221.eu.org
+DOMAIN-KEYWORD,emby-data.bdbd.fun
+DOMAIN-KEYWORD,emby-data.ymschh.top
+DOMAIN-KEYWORD,emby-data.r2s.site
+DOMAIN-KEYWORD,emby-data.neversay.eu.org
+DOMAIN-KEYWORD,emby-data.800686.xyz
+DOMAIN-KEYWORD,emby-data.xn--yetq23gxma.org
+DOMAIN-KEYWORD,emby-data.younv.at
+DOMAIN-KEYWORD,emby.kaiserver.uk
+DOMAIN-KEYWORD,emby-data.ermaokj.cn
+DOMAIN-KEYWORD,emby-data.wwwh.eu.org
+DOMAIN-KEYWORD,emby-data.f1rst.top
+DOMAIN-KEYWORD,emby-data.wx1.us.kg
+DOMAIN-KEYWORD,emby-data.xnn.ee
+#小雅相关源数据需要走国外代理
 
 DOMAIN-SUFFIX,stotik.com
 DOMAIN-SUFFIX,streetfighter.com
