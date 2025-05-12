@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
 DOMAIN-SUFFIX,dnsleaktest.org
+DOMAIN-SUFFIX,1-b.net
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,jsonp-ip.com
 
 
 DOMAIN-SUFFIX,dnsleaktest.com
