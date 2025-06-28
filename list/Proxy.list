@@ -35,6 +35,41 @@ IP-CIDR,199.59.243.0/24,no-resolve
 IP-CIDR,151.243.22.0/24,no-resolve
 IP-CIDR,188.191.197.0/24,no-resolve
 IP-CIDR,31.13.75.0/24,no-resolve 
+IP-CIDR,62.181.50.0/24,no-resolve 
+IP-CIDR,90.21.198.0/24,no-resolve 
+IP-CIDR,90.21.198.0/24,no-resolve 
+IP-CIDR,109.198.201.0/24,no-resolve 
+IP-CIDR,176.211.207.0/24,no-resolve 
+IP-CIDR,178.185.59.0/24,no-resolve 
+IP-CIDR,94.241.215.0/24,no-resolve 
+IP-CIDR,211.179.102.0/24,no-resolve 
+IP-CIDR,84.3.176.0/24,no-resolve 
+IP-CIDR,5.28.195.0/24,no-resolve 
+IP-CIDR,62.181.50.0/24,no-resolve 
+IP-CIDR,185.65.134.0/24,no-resolve 
+IP-CIDR,189.79.31.0/24,no-resolve 
+IP-CIDR,89.222.178.0/24,no-resolve 
+IP-CIDR,94.241.215.0/24,no-resolve 
+IP-CIDR,49.205.113.0/24,no-resolve 
+IP-CIDR,96.231.131.0/24,no-resolve 
+IP-CIDR,92.245.43.0/24,no-resolve 
+IP-CIDR,189.79.31.0/24,no-resolve 
+IP-CIDR,37.214.31.0/24,no-resolve 
+IP-CIDR,172.219.73.0/24,no-resolve 
+IP-CIDR,49.205.113.0/24,no-resolve 
+IP-CIDR,180.70.58.0/24,no-resolve 
+IP-CIDR,95.25.159.0/24,no-resolve 
+IP-CIDR,135.135.92.0/24,no-resolve 
+IP-CIDR,79.175.1.0/24,no-resolve 
+IP-CIDR,5.138.6.0/24,no-resolve 
+IP-CIDR,66.182.114.0/24,no-resolve 
+IP-CIDR,213.99.223.0/24,no-resolve 
+IP-CIDR,46.138.33.0/24,no-resolve 
+IP-CIDR,89.190.227.0/24,no-resolve 
+IP-CIDR,175.38.49.0/24,no-resolve 
+IP-CIDR,39.111.136.0/24,no-resolve 
+IP-CIDR,114.207.217.0/24,no-resolve 
+
 
 
 # 国外DNS
