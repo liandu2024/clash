@@ -25,6 +25,10 @@ IP-CIDR,176.213.78.0/24,no-resolve
 IP-CIDR,65.108.143.0/24,no-resolve
 IP-CIDR,66.51.170.0/24,no-resolve
 IP-CIDR,45.145.43.0/24,no-resolve
+IP-CIDR,69.16.230.0/24,no-resolve
+IP-CIDR,185.219.84.0/24,no-resolve
+IP-CIDR,98.128.229.0/24,no-resolve
+IP-CIDR,95.78.69.0/24,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
