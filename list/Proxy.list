@@ -70,6 +70,19 @@ IP-CIDR,175.38.49.0/24,no-resolve
 IP-CIDR,39.111.136.0/24,no-resolve 
 IP-CIDR,114.207.217.0/24,no-resolve 
 IP-CIDR,23.162.56.0/24,no-resolve 
+IP-CIDR,188.242.130.0/24,no-resolve 
+IP-CIDR,80.242.105.0/24,no-resolve 
+IP-CIDR,61.18.5.0/24,no-resolve 
+IP-CIDR,90.219.208.0/24,no-resolve 
+IP-CIDR,88.201.168.0/24,no-resolve 
+IP-CIDR,46.191.158.0/24,no-resolve 
+IP-CIDR,178.162.173.0/24,no-resolve 
+IP-CIDR,94.68.197.0/24,no-resolve 
+IP-CIDR,46.147.47.0/24,no-resolve 
+IP-CIDR,176.193.239.0/24,no-resolve 
+IP-CIDR,94.180.63.0/24,no-resolve 
+IP-CIDR,84.95.71.0/24,no-resolve 
+
 
 
 
