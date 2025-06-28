@@ -1,6 +1,6 @@
 # IP段匹配
-IP-CIDR,142.171.133.131/32,no-resolve
-IP-CIDR,103.115.43.2/32,no-resolve
+IP-CIDR,142.171.133.0/24,no-resolve
+IP-CIDR,103.115.43.0/24,no-resolve
 
 IP-CIDR,104.236.69.0/24,no-resolve
 IP-CIDR,95.161.76.0/24,no-resolve
