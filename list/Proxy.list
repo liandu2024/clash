@@ -1,9 +1,18 @@
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
+
 IP-CIDR,104.236.69.0/24,no-resolve
 IP-CIDR,95.161.76.0/24,no-resolve
 IP-CIDR,142.251.215.0/24,no-resolve
+
+IP-CIDR,104.36.21.0/24,no-resolve
+IP-CIDR,136.175.8.0:11/24,no-resolve
+IP-CIDR,178.67.83.0/24,no-resolve
+IP-CIDR,95.158.236.0/24,no-resolve
+
+IP-CIDR,93.100.194.0/24,no-resolve
+IP-CIDR,95.68.133.0/24,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
