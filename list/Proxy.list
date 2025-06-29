@@ -116,8 +116,8 @@ IP-CIDR,43.226.16.0/24,no-resolve
 IP-CIDR,23.145.120.0/24,no-resolve 
 
 # AI
-DOMAIN,ai.opendoor.cn
-DOMAIN,api.gptacg.top
+# DOMAIN,ai.opendoor.cn
+# DOMAIN,api.gptacg.top
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
