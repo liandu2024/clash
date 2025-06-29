@@ -102,6 +102,11 @@ IP-CIDR,5.228.119.0/24,no-resolve
 IP-CIDR,95.221.46.0/24,no-resolve 
 IP-CIDR,178.78.61.0/24,no-resolve 
 IP-CIDR,83.239.242.0/24,no-resolve 
+IP-CIDR,104.21.80.0/24,no-resolve 
+IP-CIDR,176.193.185.0/24,no-resolve 
+IP-CIDR,60.101.93.0/24,no-resolve 
+IP-CIDR,1.141.1.0/24,no-resolve 
+IP-CIDR,146.19.84.0/24,no-resolve 
 
 
 # 国外DNS
@@ -139,7 +144,7 @@ DOMAIN-SUFFIX,iriseden.eu
 DOMAIN-SUFFIX,shittyurl.org
 DOMAIN-SUFFIX,i2p.rocks
 DOMAIN-SUFFIX,shittyurl.org
-DOMAIN-SUFFIX,shittyurl.org
+DOMAIN-SUFFIX,filetracker.xyz
 
 
 
