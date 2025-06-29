@@ -111,8 +111,7 @@ IP-CIDR,36.224.116.0/24,no-resolve
 IP-CIDR,45.62.127.0/24,no-resolve 
 IP-CIDR,23.158.56.0/24,no-resolve 
 IP-CIDR,95.111.230.0/24,no-resolve 
-
-
+IP-CIDR,97.130.235.99.0/24,no-resolve 
 
 
 # 国外DNS
