@@ -84,7 +84,24 @@ IP-CIDR,94.180.63.0/24,no-resolve
 IP-CIDR,84.95.71.0/24,no-resolve 
 IP-CIDR,31.134.179.0/24,no-resolve 
 IP-CIDR,84.215.109.0/24,no-resolve 
-
+IP-CIDR,178.141.242.0/24,no-resolve 
+IP-CIDR,188.243.231.0/24,no-resolve 
+IP-CIDR,31.134.189.0/24,no-resolve 
+IP-CIDR,92.179.206.0/24,no-resolve 
+IP-CIDR,98.196.157.0/24,no-resolve 
+IP-CIDR,176.195.174.0/24,no-resolve 
+IP-CIDR,95.62.65.0/24,no-resolve 
+IP-CIDR,195.19.120.0/24,no-resolve 
+IP-CIDR,95.190.219.0/24,no-resolve 
+IP-CIDR,37.46.98.0/24,no-resolve 
+IP-CIDR,117.17.192.0/24,no-resolve 
+IP-CIDR,187.85.19.0/24,no-resolve 
+IP-CIDR,176.141.195.0/24,no-resolve 
+IP-CIDR,24.166.216.0/24,no-resolve 
+IP-CIDR,5.228.119.0/24,no-resolve 
+IP-CIDR,95.221.46.0/24,no-resolve 
+IP-CIDR,178.78.61.0/24,no-resolve 
+IP-CIDR,83.239.242.0/24,no-resolve 
 
 
 # 国外DNS
