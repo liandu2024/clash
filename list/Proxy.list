@@ -107,6 +107,12 @@ IP-CIDR,176.193.185.0/24,no-resolve
 IP-CIDR,60.101.93.0/24,no-resolve 
 IP-CIDR,1.141.1.0/24,no-resolve 
 IP-CIDR,146.19.84.0/24,no-resolve 
+IP-CIDR,36.224.116.0/24,no-resolve 
+IP-CIDR,45.62.127.0/24,no-resolve 
+IP-CIDR,23.158.56.0/24,no-resolve 
+IP-CIDR,95.111.230.0/24,no-resolve 
+
+
 
 
 # 国外DNS
@@ -145,6 +151,8 @@ DOMAIN-SUFFIX,shittyurl.org
 DOMAIN-SUFFIX,i2p.rocks
 DOMAIN-SUFFIX,shittyurl.org
 DOMAIN-SUFFIX,filetracker.xyz
+DOMAIN-SUFFIX,altrosky.nl
+DOMAIN-SUFFIX,leech.ie
 
 
 
