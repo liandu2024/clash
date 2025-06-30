@@ -129,6 +129,9 @@ IP-CIDR,69.50.95.0/24,no-resolve
 IP-CIDR,60.246.44.0/24,no-resolve 
 IP-CIDR,114.44.151.0/24,no-resolve 
 IP-CIDR,36.228.67.0/24,no-resolve 
+IP-CIDR,5.189.140.0/24,no-resolve 
+IP-CIDR,58.115.164.0/24,no-resolve 
+IP-CIDR,161.142.117.0/24,no-resolve 
 
 
 # AI
