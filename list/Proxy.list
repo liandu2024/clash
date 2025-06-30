@@ -124,6 +124,12 @@ IP-CIDR,62.0.121.0/24,no-resolve
 IP-CIDR,27.242.39.0/24,no-resolve 
 IP-CIDR,216.194.166.0/24,no-resolve 
 IP-CIDR,173.183.31.0/24,no-resolve 
+IP-CIDR,1.34.62.0/24,no-resolve 
+IP-CIDR,69.50.95.0/24,no-resolve 
+IP-CIDR,60.246.44.0/24,no-resolve 
+IP-CIDR,114.44.151.0/24,no-resolve 
+IP-CIDR,36.228.67.0/24,no-resolve 
+
 
 # AI
 # DOMAIN,ai.opendoor.cn
