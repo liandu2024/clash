@@ -138,7 +138,7 @@ IP-CIDR,45.87.172.0/24,no-resolve
 
 
 # AI
-# DOMAIN,ai.opendoor.cn
+DOMAIN,ai.opendoor.cn
 
 
 # 国外DNS
