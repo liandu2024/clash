@@ -139,7 +139,7 @@ IP-CIDR,45.87.172.0/24,no-resolve
 # DOMAIN,ai.opendoor.cn
 
 # 小牛
-DOMAIN-SUFFIX,axiaoniuyun.cc
+# DOMAIN-SUFFIX,xiaoniuyun.cc
 
 
 # 国外DNS
