@@ -141,6 +141,8 @@ DOMAIN,ai.opendoor.cn
 # 小牛
 # DOMAIN-SUFFIX,xiaoniuyun.cc
 
+DOMAIN-SUFFIX,fastlydns.net
+
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
