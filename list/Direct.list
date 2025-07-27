@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,zhunchuanpb.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,ffzy
+DOMAIN-KEYWORD,ipify
 DOMAIN-KEYWORD,gdhktv
 DOMAIN-KEYWORD,viptv
 DOMAIN-KEYWORD,viphktv
