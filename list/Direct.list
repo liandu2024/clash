@@ -70,6 +70,12 @@ DOMAIN-SUFFIX,zhunchuanpb.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,ffzy
+DOMAIN-KEYWORD,gdhktv
+DOMAIN-KEYWORD,viptv
+DOMAIN-KEYWORD,viphktv
+DOMAIN-KEYWORD,dushe
+DOMAIN-KEYWORD,aicoin
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -647,8 +653,3 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
-DOMAIN-KEYWORD,gdhktv
-DOMAIN-KEYWORD,viptv
-DOMAIN-KEYWORD,viphktv
-DOMAIN-KEYWORD,dushe
-DOMAIN-KEYWORD,aicoin
