@@ -1,3 +1,8 @@
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,bard.google.com
+DOMAIN,gemini-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,aistudio.google.com
+DOMAIN,aistudio-pa.clients6.google.com
+DOMAIN,googleusercontent.com
 
