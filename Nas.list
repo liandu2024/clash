@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,api.github.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,api.telegram.org
+DOMAIN-SUFFIX,proxmox.com
