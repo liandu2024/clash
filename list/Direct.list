@@ -2,6 +2,10 @@
 
 # MyList
 # 域名后缀匹配
+DOMAIN-SUFFIX,chybinc.com
+DOMAIN-SUFFIX,gfw.gg
+DOMAIN-SUFFIX,moedog.cloud
+
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
@@ -27,9 +31,9 @@ DOMAIN-SUFFIX,ok1248.cn
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,51zmt.top
 
-# DOMAIN-SUFFIX,idsduf.com
+DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,bncrcloud.com
-# DOMAIN-SUFFIX,apple-bing.sbs
+DOMAIN-SUFFIX,apple-bing.sbs
 DOMAIN-SUFFIX,xiaoniuyun.cc
 DOMAIN-SUFFIX,vp2.us
 DOMAIN-SUFFIX,km688.ink
