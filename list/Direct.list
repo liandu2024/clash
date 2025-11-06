@@ -49,12 +49,16 @@ DOMAIN-SUFFIX,futo-on.com
 # 快猫    
 DOMAIN-SUFFIX,quickcht3.club
 DOMAIN-SUFFIX,kuaimao2.club
+DOMAIN-SUFFIX,kuaimaonodebgp.com
+
 # 火烧
 DOMAIN-SUFFIX,onesubv.site
 DOMAIN-SUFFIX,oneyyds.online
 # 猫耳 
 DOMAIN-SUFFIX,zhunchuanpb.com
 DOMAIN-SUFFIX,sevenka.top
+DOMAIN-SUFFIX,maocf1.top
+
 # BestVPN 
 DOMAIN-SUFFIX,prosubnet02.eu
 DOMAIN-SUFFIX,networklinkpro.net
@@ -87,6 +91,13 @@ DOMAIN-SUFFIX,fafhjkah.xyz
 # 牛逼 
 DOMAIN-SUFFIX,66jc.top
 DOMAIN-SUFFIX,zhunchuanpb.com
+DOMAIN-SUFFIX,swmixx.cn
+
+DOMAIN-SUFFIX,jueduibupao.top
+DOMAIN-SUFFIX,alipoly.sbs
+DOMAIN-SUFFIX,networklinkpro.com
+DOMAIN-SUFFIX,YOUSUTONG.XYZ
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
