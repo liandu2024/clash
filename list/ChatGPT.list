@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 
+# Apple Intelligence：
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
