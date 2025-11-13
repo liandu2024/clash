@@ -98,6 +98,11 @@ DOMAIN-SUFFIX,alipoly.sbs
 DOMAIN-SUFFIX,networklinkpro.com
 DOMAIN-SUFFIX,YOUSUTONG.XYZ
 
+# 九游
+DOMAIN-SUFFIX,izenny.com
+DOMAIN-SUFFIX,1yuan.sbs
+DOMAIN-SUFFIX,maocf1.top
+DOMAIN-SUFFIX,sevenka.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
