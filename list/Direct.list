@@ -74,8 +74,8 @@ DOMAIN-SUFFIX,s86lk.space
 # 硅谷
 DOMAIN-SUFFIX,huawei-cloud.shop
 DOMAIN-SUFFIX,huawei-cloud.vip
-DOMAIN-SUFFIX,gpt-agent.cc 
-DOMAIN-SUFFIX,svcloud.one
+DOMAIN-SUFFIX,gpt-agent.cc
+DOMAIN-SUFFIX,apple-bing.sbs
 
 # 无界
 DOMAIN-SUFFIX,acwct.cn
@@ -98,6 +98,11 @@ DOMAIN-SUFFIX,alipoly.sbs
 DOMAIN-SUFFIX,networklinkpro.com
 DOMAIN-SUFFIX,YOUSUTONG.XYZ
 
+# 九游
+DOMAIN-SUFFIX,izenny.com
+DOMAIN-SUFFIX,1yuan.sbs
+DOMAIN-SUFFIX,maocf1.top
+DOMAIN-SUFFIX,sevenka.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
