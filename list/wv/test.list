@@ -55,5 +55,5 @@ DOMAIN-SUFFIX,ipify.org
 
 # IP-CIDR,74.125.250.129/32,no-resolve
 
-DOMAIN-SUFFIX,stun.l.google.com
+DOMAIN-SUFFIX,l.google.com
 DOMAIN-SUFFIX,ipify.org
