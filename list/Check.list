@@ -53,4 +53,4 @@ DOMAIN-SUFFIX,incolumitas.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipify.org
 
-# IP-CIDR,74.125.250.129/32,no-resolve
+IP-CIDR,74.125.250.129/32,no-resolve
