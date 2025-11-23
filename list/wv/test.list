@@ -50,5 +50,10 @@ DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,incolumitas.com
-DOMAIN-SUFFIX,incolumitas.com
-DOMAIN-SUFFIX,incolumitas.com
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ipify.org
+
+# IP-CIDR,74.125.250.129/32,no-resolve
+
+DOMAIN-SUFFIX,stun.l.google.com
+DOMAIN-SUFFIX,ipify.org
