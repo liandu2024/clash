@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,whoer.com
 DOMAIN-SUFFIX,whatismyip.com.tw
 DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,whoisip.me
-DOMAIN-SUFFIX,ipaddress.m
+DOMAIN-SUFFIX,ipaddress.me
 
 
 IP-CIDR,74.125.250.129/24,no-resolve
