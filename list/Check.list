@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,incolumitas.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,whoer.com
 
 IP-CIDR,74.125.250.129/24,no-resolve
 
