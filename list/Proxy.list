@@ -1,3 +1,6 @@
+
+
+
 # IP段匹配
 IP-CIDR,142.171.133.0/24,no-resolve
 IP-CIDR,103.115.43.0/24,no-resolve
@@ -142,6 +145,14 @@ IP-CIDR,45.87.172.0/24,no-resolve
 # DOMAIN-SUFFIX,xiaoniuyun.cc
 
 DOMAIN-SUFFIX,fastlydns.net
+
+# ssrdog
+DOMAIN-SUFFIX,ssrdog222.com
+DOMAIN-SUFFIX,hosbbq.com
+DOMAIN-SUFFIX,ssrdog7.com
+DOMAIN-SUFFIX,ssrdog8.com
+DOMAIN-SUFFIX,ssrdog9.com
+DOMAIN-SUFFIX,ssrdog.com
 
 
 # 国外DNS
