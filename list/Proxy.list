@@ -145,7 +145,7 @@ IP-CIDR,45.87.172.0/24,no-resolve
 # DOMAIN-SUFFIX,xiaoniuyun.cc
 
 DOMAIN-SUFFIX,fastlydns.net
-
+DOMAIN-SUFFIX,bncrcloud.com
 # ssrdog
 DOMAIN-SUFFIX,ssrdog222.com
 DOMAIN-SUFFIX,hosbbq.com
