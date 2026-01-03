@@ -154,6 +154,8 @@ DOMAIN-SUFFIX,ssrdog8.com
 DOMAIN-SUFFIX,ssrdog9.com
 DOMAIN-SUFFIX,ssrdog.com
 
+# 优速通
+DOMAIN-SUFFIX,sutong.deal
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
