@@ -141,6 +141,9 @@ IP-CIDR,45.87.172.0/24,no-resolve
 # AI
 # DOMAIN,ai.opendoor.cn
 
+# capcut
+DOMAIN-SUFFIX,capcut.com
+
 # 小牛
 # DOMAIN-SUFFIX,xiaoniuyun.cc
 
