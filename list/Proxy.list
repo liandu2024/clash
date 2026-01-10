@@ -142,6 +142,9 @@ IP-CIDR,161.142.117.0/24,no-resolve
 IP-CIDR,46.3.240.0/24,no-resolve 
 IP-CIDR,45.87.172.0/24,no-resolve 
 
+
+
+DOMAIN-SUFFIX,mifjun.com
 # AI
 # DOMAIN,ai.opendoor.cn
 
