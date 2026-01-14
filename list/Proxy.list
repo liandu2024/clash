@@ -144,6 +144,8 @@ IP-CIDR,46.3.240.0/24,no-resolve
 IP-CIDR,45.87.172.0/24,no-resolve 
 
 
+DOMAIN-SUFFIX,clash-cn.com
+
 DOMAIN-SUFFIX,luminati.io
 DOMAIN-SUFFIX,mifjun.com
 # AI
