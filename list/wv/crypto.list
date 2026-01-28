@@ -23,3 +23,7 @@ DOMAIN-SUFFIX,saasexch.com
 
 # bybit.com
 DOMAIN-SUFFIX,bybit.com
+
+# gate.com
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
