@@ -1,4 +1,13 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+# 域名关键字匹配
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,ffzy
+DOMAIN-KEYWORD,ipify
+DOMAIN-KEYWORD,gdhktv
+DOMAIN-KEYWORD,viptv
+DOMAIN-KEYWORD,viphktv
+DOMAIN-KEYWORD,dushe
+DOMAIN-KEYWORD,aicoin
 
 # MyList
 # 域名后缀匹配
@@ -69,16 +78,6 @@ DOMAIN-SUFFIX,fafhjkah.xyz
 # 牛逼 
 DOMAIN-SUFFIX,66jc.top
 DOMAIN-SUFFIX,zhunchuanpb.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,ffzy
-DOMAIN-KEYWORD,ipify
-DOMAIN-KEYWORD,gdhktv
-DOMAIN-KEYWORD,viptv
-DOMAIN-KEYWORD,viphktv
-DOMAIN-KEYWORD,dushe
-DOMAIN-KEYWORD,aicoin
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
