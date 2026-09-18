@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
 
 DOMAIN-SUFFIX,ipcheck.im
-
+DOMAIN,challenges.cloudflare.com
 DOMAIN,speed.cloudflare.com
 DOMAIN-SUFFIX,fast.com
 # DOMAIN,ichnaea-web.netflix.com
