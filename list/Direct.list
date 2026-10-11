@@ -1,4 +1,12 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
+# 域名关键字匹配
+DOMAIN-KEYWORD,youruanhui
+DOMAIN-KEYWORD,viptv
+DOMAIN-KEYWORD,viptvb
+DOMAIN-KEYWORD,ffzy
+DOMAIN-KEYWORD,ipify
+DOMAIN-KEYWORD,gdhktv
+
 
 # MyList
 # 域名后缀匹配
@@ -34,7 +42,6 @@ DOMAIN-SUFFIX,yylx.win
 DOMAIN-SUFFIX,0033cas.com
 DOMAIN-SUFFIX,asyncdata.net
 DOMAIN-SUFFIX,2akribis.com
-DOMAIN-SUFFIX,ok1248.cn
 
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,51zmt.top
@@ -106,9 +113,6 @@ DOMAIN-SUFFIX,izenny.com
 DOMAIN-SUFFIX,1yuan.sbs
 DOMAIN-SUFFIX,maocf1.top
 DOMAIN-SUFFIX,sevenka.top
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
