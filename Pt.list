@@ -1,0 +1,39 @@
+# Pt相关DNS
+# 域名关键字匹配
+
+DOMAIN-KEYWORD,tracker
+
+# 域名后缀匹配
+
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,xp.m-team.io
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,pt.keepfrds.com
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,dicmusic.com
+DOMAIN-SUFFIX,leaves.red
+DOMAIN-SUFFIX,oldtoons.world
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,hdmayi.com
+DOMAIN-SUFFIX,ptlsp.com
+DOMAIN-SUFFIX,ptcafe.club
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,wintersakura.net
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,wukongwendao.top
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,0ff.cc
+DOMAIN-SUFFIX,agsvpt.com
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,qingwapt.com
